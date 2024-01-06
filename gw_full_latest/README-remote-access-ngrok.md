@@ -77,7 +77,7 @@ We use this `ngrok` service to administrate a deployed gateway when some trouble
 Use the `cmd.sh` text command interface
 ---------------------------------------
 
-`cmd.sh` has been extended with 3 commands:
+`cmd.sh` has been extended with 3 commands
 
 	----------------------------------------------------------* ngrok *--+
 	M- get and install ngrok                                             +
